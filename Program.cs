@@ -15,7 +15,7 @@ namespace ReceiptService
             var cart2 = data.GetShoppingCart2();
             var cart3 = data.GetShoppingCart3();
 
-            Console.WriteLine("\n\n\n\n\n Dynamo Store");
+            Console.WriteLine("\n\n\nDynamo Store \n\n\n");
 
             receiptPrinter.CalculateAndPrint(cart1);
             receiptPrinter.CalculateAndPrint(cart2);
