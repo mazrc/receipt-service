@@ -1,5 +1,10 @@
 # Example Dotnet Microservice that calculate taxes
 
+## To See Receipts on Console
+```
+dotnet run
+```
+
 ## Techstack
 - .NET Core
 - C#
