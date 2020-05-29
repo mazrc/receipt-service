@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{860FFFF2-DEFD-43A1-AC21-380B313BA5FA}|Default">
+  <MonoDevelop.Ide.ItemProperties.receipt-service PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
+    <Files>
+      <File FileName="Program.cs" Line="55" Column="10" />
+      <File FileName="README.md" Line="13" Column="1" />
+      <File FileName="ReceiptService.Tests/UnitTest1.cs" Line="8" Column="17" />
+      <File FileName=".gitignore" Line="15" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="receipt-service" expanded="True">
+            <Node name="receipt-service" expanded="True">
+              <Node name=".gitignore" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
