@@ -1,29 +1,30 @@
-# .NET Example Microservice Core Logic
+# Example Dotnet Microservice that calculate taxes
 
 ## Techstack
 - .NET Core
 - C#
-- Json.NET for deserializing input data
 - Visual Studio Code
+- xUnit
 
-## Input
-- Cart object / Array of Cart Objects
-    - 
-
+## Service
+- Main class creates two Items in a Shopping Cart
+- Calculate Sales Tax
+- Detects exampt items
+- Prints receipt with taxes
 
 ## Output
-- Receipt Object
-- Receipt Gets Printed on Console
+- Recipt
+- Tax Calculation
 
 ## Ext Points
 - Docker image
-- Intercommunication of services
+- Intercommunication of services to pass in data and information
+- Except ids from a persistant store
 
 ## Tests
-Example JSON:
+Example Run:
 ```
-dotnet run "{\"createdDate\":\"2020-01-20T00:00:00Z\",\"items\":[{\"type\":1,\"id\":\"1\",\"name\":\"Chair\",\"price\":\"500.0\",\"quantity\":\"1\"}]}"
+dotnet run
 ```
 ### Notes:
-- packaging <Org>.<Service>
 - using .NET naming conventions i.e., PascalCase
