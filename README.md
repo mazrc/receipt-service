@@ -1,4 +1,4 @@
-# Example Dotnet Microservice that calculate taxes
+# Example .NET Microservice calculate sales taxe and prints receipts
 
 ## Problem: Sales Taxes
 Basic sales tax is applicable at a rate of 10% on all goods, except books, food, and medical products that are exempt. Import duty is an additional sales tax applicable on all imported goods at a rate of 5%, with no exemptions. 
@@ -6,7 +6,7 @@ When I purchase items, I receive a receipt which lists the name of all the items
 Write an application that prints out the receipt details for these shopping baskets... 
 
 ## Solution
-/output.png
+output.png
 
 ## To See Receipts on Console
 ```
